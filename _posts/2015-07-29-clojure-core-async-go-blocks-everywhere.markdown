@@ -2,7 +2,7 @@
 layout: post
 title:  "Clojure & core.async: go blocks everywhere?"
 subtitle: Or why the difference between "coroutine" and "goroutine" matters.
-date:   2015-07-27 19:26:37
+date:   2015-07-29 19:26:37
 categories: clojure
 ---
 
