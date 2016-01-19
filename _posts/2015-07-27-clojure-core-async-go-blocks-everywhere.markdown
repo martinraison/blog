@@ -5,7 +5,7 @@ date:   2015-07-27 19:26:37
 categories: clojure
 ---
 
-While not part of the Clojure core library, [core.async][core-async]'s `go` blocks are very appealing for writing asynchronous code. In fact, it is very tempting to use`go` and `<!` as replaements for the `async` and `await` primitives for coroutines found in other programming languages such as [C#][c-sharp], [Hack][hack] or (soon) [Python][python].
+While not part of the Clojure core library, [core.async][core-async]'s `go` blocks are very appealing for writing asynchronous code. In fact, it is very tempting to use`go` and `<!` as replacements for the `async` and `await` primitives for coroutines found in other programming languages such as [C#][c-sharp], [Hack][hack] or (soon) [Python][python].
 
 Here is a toy example in Python:
 
