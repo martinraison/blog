@@ -3,7 +3,7 @@ title: Representations
 email: martinraison@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Simple & convoluted.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "https://martinraison.github.io" # the base hostname & protocol for your site
 twitter_username: braizh
 github_username:  martinraison
